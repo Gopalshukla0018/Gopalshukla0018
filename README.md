@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=dark" alt="Gopalshukla0018" />
+</p>
 
 ## 🛠️ Tech Stack
 
