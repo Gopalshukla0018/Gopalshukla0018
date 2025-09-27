@@ -4,6 +4,8 @@
 🚀 A passionate Frontend Developer building clean, scalable UIs using React.js, Tailwind CSS & JavaScript  
 </p>
 
+
+
 ## 📫 Connect with Me 
 <p align="center">
   <a href="https://www.linkedin.com/in/gopalshukla0018/" >
@@ -16,22 +18,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" />
   </a>
 </p>
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopalshukla0018&show_icons=true&theme=dark&hide_border=false" alt="Gopalshukla0018" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=dark" alt="Gopalshukla0018" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopalshukla0018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Gopalshukla0018 Top Languages" />
-</p>
-
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
@@ -44,4 +36,4 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Gopalshukla0018&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM -->
+<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopalshukla0018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=sachindwivedi70&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
