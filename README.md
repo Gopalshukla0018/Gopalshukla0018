@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=dark" alt="Gopalshukla0018" />
-</p>
+</p> 
 
 ## 🛠️ Tech Stack
 
