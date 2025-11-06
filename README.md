@@ -4,7 +4,6 @@
 🚀 A passionate Frontend Developer building clean, scalable UIs using React.js, Tailwind CSS & JavaScript  
 </p>
 
----
 
 ## 📫 Connect with Me 
 <p align="center">
