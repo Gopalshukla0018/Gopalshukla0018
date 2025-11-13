@@ -27,26 +27,38 @@
 
 ## 🛠️ My Architect's Toolkit
 
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,go" height="40" />
-</p>
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" />
-</p>
-<p align="center">
-  <strong>Backend:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-</p>
-<p align="center">
-  <strong>Databases:</strong><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="40" />
-</p>
-<p align="center">
-  <strong>Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" height="40" />
-</p>
+<table align="center" width="90%">
+  <tr>
+    <td align="right" width="20%"><strong>Languages:</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,go" height="40" alt="JavaScript, TypeScript, Golang" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Frontend:</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcnui,framer" height="40" alt="React, Next.js, Tailwind, Shadcn/UI, Framer Motion" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Backend:</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,go" height="40" alt="Node.js, Express, Golang" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Databases:</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="40" alt="MongoDB, PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Tools:</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker" height="40" alt="Git, GitHub, Docker" />
+    </td>
+  </tr>
+</table>
 
 ---
 
