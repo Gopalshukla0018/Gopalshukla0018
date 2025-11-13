@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋 I'm Gopal Shukla</h1>
 
 <p align="center">
-🚀 A passionate Frontend Developer building clean, scalable UIs using React.js, Tailwind CSS & JavaScript  
+🚀 A passionate Fullstack Developer building clean, scalable UIs using React.js, Tailwind CSS & JavaScript  
 </p>
 
 
