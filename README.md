@@ -8,7 +8,10 @@
   I am a <strong>Full Stack Developer</strong> who thinks like an <strong>architect</strong>. I design and build complete, real-world products (like CRMs and SaaS applications) from the ground up, using MERN, Go, and Next.js.
 </p>
 
----
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Gopalshukla0018&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## 📫 Connect with Me
 <p align="center">
@@ -23,7 +26,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ My Architect's Toolkit
 
@@ -60,12 +63,9 @@
   </tr>
 </table>
 
----
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gopalshukla0018&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopalshukla0018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
