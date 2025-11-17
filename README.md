@@ -9,6 +9,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Gopalshukla0018&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## 📫 Connect with Me
 <p align="center">
