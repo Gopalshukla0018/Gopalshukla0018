@@ -21,8 +21,8 @@
   <a href="https://www.youtube.com/@gopalshukla0018" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" />
   </a>
-  <a href="mailto:gopal.shukla.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=gopal.shukla.dev@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" />
+  <a href="mailto:hello@gopalshukla.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=hello@gopalshukla.in&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" />
   </a>
 </p>
 
